@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container1:hover .icon1{
+    background-color: #0b72e7;
+}
+.container2:hover .icon2{
+    background-color: #0b72e7;
+}
+.container3:hover .icon3{
+    background-color: #0b72e7;
+}
+.container4:hover .icon4{
+    background-color: #0b72e7;
+}
+.container5:hover .icon5{
+    background-color: #0b72e7;
+}
+.container6:hover .icon6{
+    background-color: #0b72e7;
+}
+
+.wave1,.wave2,.wave3,.wave4,.wave5,.wave6{
+    opacity: 0;
+}
+.container1:hover .wave1{
+    opacity: 1;
+    transition-duration: 0.5s;
+
+}
+.container2:hover .wave2{
+    opacity: 1;
+    transition-duration: 0.5s;
+
+}
+.container3:hover .wave3{
+    opacity: 1;
+    transition-duration: 0.5s;
+
+}
+.container4:hover .wave4{
+    opacity: 1;
+    transition-duration: 0.5s;
+
+}
+.container5:hover .wave5{
+    opacity: 1;
+    transition-duration: 0.5s;
+
+}
+.container6:hover .wave6{
+    opacity: 1;
+    transition-duration: 0.5s;
+
+}
+
+.container1:hover .box1{
+    transform: scale(1);
+    filter: drop-shadow(0px 0px 10px rgb(129,133,151));
+    transition: 0.3s;
+
+}
+.container2:hover .box2{
+    transform: scale(1);
+    filter: drop-shadow(0px 0px 10px rgb(129,133,151));
+    transition: 0.3s;
+
+}
+.container3:hover .box3{
+    transform: scale(1);
+    filter: drop-shadow(0px 0px 10px rgb(129,133,151));
+    transition: 0.3s;
+
+}
+.container4:hover .box4{
+    transform: scale(1);
+    filter: drop-shadow(0px 0px 10px rgb(129,133,151));
+    transition: 0.3s;
+
+}
+.container5:hover .box5{
+    transform: scale(1);
+    filter: drop-shadow(0px 0px 10px rgb(129,133,151));
+    transition: 0.3s;
+
+}
+.container6:hover .box6{
+    transform: scale(1);
+    filter: drop-shadow(0px 0px 10px rgb(129,133,151));
+    transition: 0.3s;
+
+}
