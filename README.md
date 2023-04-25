@@ -4,7 +4,8 @@ It's a website that has been designed to mimic the design of the popular Indian 
 ⭕ This Site is Fully Responsive
 
 <h2>📌 Tech Stack</h2>
-1.HTML  
-2.CSS  
+1.HTML <br>
+
+2.CSS<br>  
 3.TailwindCSS 
 
