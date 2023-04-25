@@ -5,7 +5,6 @@ It's a website that has been designed to mimic the design of the popular Indian 
 
 <h2>📌 Tech Stack</h2>
 1.HTML <br>
-
-2.CSS<br>  
+2.CSS <br>  
 3.TailwindCSS 
 
